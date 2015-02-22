@@ -26,7 +26,12 @@ cleanData content = replace "\r" "" content
 
 --U.toString U4.nextRandom
 processLine :: String -> String
-processLine line =  unwords [ "(" ++ ("1") ++ "," ++ (col) ++ ")" | col <- (splitOn "," line)]
+processLine line =  unwords [ (getTuple col 3 1) | col <- (splitOn "," line)]
+--processLine line =  unwords [[ "(" ++ ("1") ++ "," ++ (col) ++ ")" | col <- (splitOn "," line)]!!1] 
+
+getTuple :: String -> Int -> Int -> String
+getTuple col r_ord c_ord  = "(" ++ (show r_ord) ++ "," ++ (show c_ord) ++ "," ++ (col) ++ ")"
+
 
 outputData :: String -> IO ()
 outputData contents = writeFile "relations.log" contents
