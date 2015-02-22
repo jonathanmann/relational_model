@@ -7,20 +7,26 @@ readData file = do
     content <- readFile file
     return content
 
-processData :: String -> String
-processData content = cleanData (unlines([ processLine (snd line) (fst line) | line <- (zip[0..] (lines(content)) )]))
+outputData :: String -> IO ()
+outputData contents = writeFile "relations.log" contents
+
+spl :: String -> [String]
+spl x = splitOn "," x
 
 cleanData :: String -> String
 cleanData content = replace "\r" "" content
 
-processLine :: String -> Int -> String
-processLine line r_ord =  unwords [ (getTuple (snd col) r_ord (fst col)) | col <- (zip[0..] (splitOn "," line))]
+processData :: String -> String
+processData content = cleanData (unlines([ prepLine line (head (lines(content))) | line <- (zip[0..] (lines(content)) )]))
 
-getTuple :: String -> Int -> Int -> String
-getTuple col r_ord c_ord  = "(" ++ (show r_ord) ++ "," ++ (show c_ord) ++ "," ++ (col) ++ ")"
+prepLine :: (Int,String) -> String -> String
+prepLine line headers = processLine (snd line) (fst line) (spl headers)
 
-outputData :: String -> IO ()
-outputData contents = writeFile "relations.log" contents
+processLine :: String -> Int -> [String] -> String
+processLine line r_ord headers =  unwords [ (getTuple (snd col) r_ord (fst col)) | col <- (zip headers (spl line))]
+
+getTuple :: String -> Int -> String -> String
+getTuple col r_ord c_name  = "(" ++ (c_name) ++ "," ++ (show r_ord) ++ "," ++ (col) ++ ")"
 
 main :: IO ()
 main = do
