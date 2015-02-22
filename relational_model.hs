@@ -17,7 +17,7 @@ cleanData :: String -> String
 cleanData content = replace "\r" "" content
 
 processData :: String -> String
-processData content = cleanData (unlines([ prepLine line (head (lines(content))) | line <- (zip[0..] (lines(content)) )]))
+processData content = unlines([ prepLine line (head (lines(content))) | line <- (zip[0..] (lines(content)) )])
 
 prepLine :: (Int,String) -> String -> String
 prepLine line headers = processLine (snd line) (fst line) (spl headers)
@@ -32,5 +32,5 @@ main :: IO ()
 main = do
     file:_ <- getArgs
     content <- readData file
-    outputData $ processData content
+    outputData $ processData (cleanData content)
     --putStrLn "check relations.log"
