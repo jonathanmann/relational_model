@@ -8,7 +8,7 @@ readData file = do
     return content
 
 processData :: String -> String
-processData content = cleanData (unlines([ processLine line 1 | line <- lines(content)]))
+processData content = cleanData (unlines([ processLine (snd line) (fst line) | line <- (zip[0..] (lines(content)) )]))
 
 cleanData :: String -> String
 cleanData content = replace "\r" "" content
