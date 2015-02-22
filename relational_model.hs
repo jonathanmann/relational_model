@@ -14,7 +14,7 @@ cleanData :: String -> String
 cleanData content = replace "\r" "" content
 
 processLine :: String -> Int -> String
-processLine line r_ord =  unwords [ (getTuple col r_ord 1) | col <- (splitOn "," line)]
+processLine line r_ord =  unwords [ (getTuple (snd col) r_ord (fst col)) | col <- (zip[0..] (splitOn "," line))]
 
 getTuple :: String -> Int -> Int -> String
 getTuple col r_ord c_ord  = "(" ++ (show r_ord) ++ "," ++ (show c_ord) ++ "," ++ (col) ++ ")"
