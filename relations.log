@@ -1,116 +1,116 @@
-(NAME,0,NAME) (OCCUPATION,0,OCCUPATION) (COUNTRY,0,COUNTRY) (EST_IQ_SCORE,0,EST_IQ_SCORE)
-(NAME,1,Abraham Lincoln) (OCCUPATION,1,politician) (COUNTRY,1,USA) (EST_IQ_SCORE,1,128)
-(NAME,2,Adolf Hitler) (OCCUPATION,2,politician) (COUNTRY,2,Germany) (EST_IQ_SCORE,2,141)
-(NAME,3,Al Gore) (OCCUPATION,3,politician) (COUNTRY,3,USA) (EST_IQ_SCORE,3,134)
-(NAME,4,Albert Einstein) (OCCUPATION,4,scientist) (COUNTRY,4,USA) (EST_IQ_SCORE,4,160)
-(NAME,5,Albrecht von Haller) (OCCUPATION,5,scientist) (COUNTRY,5,Switzerland) (EST_IQ_SCORE,5,190)
-(NAME,6,Alexander Pope) (OCCUPATION,6,writer) (COUNTRY,6,England) (EST_IQ_SCORE,6,180)
-(NAME,7,Sir Andrew J Wiles) (OCCUPATION,7,scientist) (COUNTRY,7,England) (EST_IQ_SCORE,7,170)
-(NAME,8,Andrew Jackson) (OCCUPATION,8,politician) (COUNTRY,8,USA) (EST_IQ_SCORE,8,123)
-(NAME,9,Andy Warhol) (OCCUPATION,9,artist) (COUNTRY,9,USA) (EST_IQ_SCORE,9,86)
-(NAME,10,Anthonis van Dyck) (OCCUPATION,10,artist) (COUNTRY,10,Dutch) (EST_IQ_SCORE,10,155)
-(NAME,11,Antoine Arnauld) (OCCUPATION,11,philosopher) (COUNTRY,11,France) (EST_IQ_SCORE,11,190)
-(NAME,12,Arne Beurling) (OCCUPATION,12,scientist) (COUNTRY,12,Sweden) (EST_IQ_SCORE,12,180)
-(NAME,13,Arnold Schwarzenegger) (OCCUPATION,13,politician) (COUNTRY,13,Austrian) (EST_IQ_SCORE,13,135)
-(NAME,14,Baruch Spinoza) (OCCUPATION,14,philosopher) (COUNTRY,14,Holland) (EST_IQ_SCORE,14,175)
-(NAME,15,Benjamin Franklin) (OCCUPATION,15,politician) (COUNTRY,15,USA) (EST_IQ_SCORE,15,160)
-(NAME,16,Benjamin Netanyahu) (OCCUPATION,16,politician) (COUNTRY,16,Israel) (EST_IQ_SCORE,16,180)
-(NAME,17,Bill Gates) (OCCUPATION,17,businessman) (COUNTRY,17,USA) (EST_IQ_SCORE,17,160)
-(NAME,18,William Jefferson Clinton) (OCCUPATION,18,politician) (COUNTRY,18,USA) (EST_IQ_SCORE,18,137)
-(NAME,19,Blaise Pascal) (OCCUPATION,19,scientist) (COUNTRY,19,France) (EST_IQ_SCORE,19,195)
-(NAME,20,Bobby Fischer) (OCCUPATION,20,chessplayer) (COUNTRY,20,USA) (EST_IQ_SCORE,20,187)
-(NAME,21,Buonarroti Michelangelo) (OCCUPATION,21,artist) (COUNTRY,21,Italy) (EST_IQ_SCORE,21,180)
-(NAME,22,Carl von Linn) (OCCUPATION,22,scientist) (COUNTRY,22,Sweden) (EST_IQ_SCORE,22,165)
-(NAME,23,Charles Darwin) (OCCUPATION,23,scientist) (COUNTRY,23,England) (EST_IQ_SCORE,23,165)
-(NAME,24,Charles Dickens) (OCCUPATION,24,writer) (COUNTRY,24,England) (EST_IQ_SCORE,24,180)
-(NAME,25,Christopher Michael Langan) (OCCUPATION,25,bouncer) (COUNTRY,25,USA) (EST_IQ_SCORE,25,195)
-(NAME,26,Sir Clive Sinclair) (OCCUPATION,26,scientist) (COUNTRY,26,England) (EST_IQ_SCORE,26,159)
-(NAME,27,David Hume) (OCCUPATION,27,philosopher) (COUNTRY,27,Scotland) (EST_IQ_SCORE,27,180)
-(NAME,28,Dr David Livingstone) (OCCUPATION,28,explorer) (COUNTRY,28,Scotland) (EST_IQ_SCORE,28,170)
-(NAME,29,Donald Byrne) (OCCUPATION,29,chessplayer) (COUNTRY,29,Irland) (EST_IQ_SCORE,29,170)
-(NAME,30,Emanuel Swedenborg) (OCCUPATION,30,philosopher) (COUNTRY,30,Sweden) (EST_IQ_SCORE,30,205)
-(NAME,31,Sir Francis Galton) (OCCUPATION,31,scientist) (COUNTRY,31,British) (EST_IQ_SCORE,31,200)
-(NAME,32,Friedrich Wilhelm Joseph von Schelling) (OCCUPATION,32,philosopher) (COUNTRY,32,Germany) (EST_IQ_SCORE,32,190)
-(NAME,33,Galileo Galilei) (OCCUPATION,33,scientist) (COUNTRY,33,Italy) (EST_IQ_SCORE,33,185)
-(NAME,34,Geena Elizabeth Davis) (OCCUPATION,34,entertainer) (COUNTRY,34,USA) (EST_IQ_SCORE,34,140)
-(NAME,35,Georg Friedrich Handel) (OCCUPATION,35,composer) (COUNTRY,35,Germany) (EST_IQ_SCORE,35,170)
-(NAME,36,George Wilhelm Friedrich Hegel) (OCCUPATION,36,philosopher) (COUNTRY,36,Germany) (EST_IQ_SCORE,36,165)
-(NAME,37,George Berkeley) (OCCUPATION,37,philosopher) (COUNTRY,37,Ireland) (EST_IQ_SCORE,37,190)
-(NAME,38,George H Choueiri) (OCCUPATION,38,businessman) (COUNTRY,38,Lebanon) (EST_IQ_SCORE,38,195)
-(NAME,39,Mary Ann Evans) (OCCUPATION,39,writer) (COUNTRY,39,England) (EST_IQ_SCORE,39,160)
-(NAME,40,George Sand ) (OCCUPATION,40,writer) (COUNTRY,40,France) (EST_IQ_SCORE,40,150)
-(NAME,41,George Walker Bush) (OCCUPATION,41,politician) (COUNTRY,41,USA) (EST_IQ_SCORE,41,125)
-(NAME,42,George Washington) (OCCUPATION,42,politician) (COUNTRY,42,USA) (EST_IQ_SCORE,42,118)
-(NAME,43,Gottfried Wilhelm von Leibniz) (OCCUPATION,43,philosopher) (COUNTRY,43,Germany) (EST_IQ_SCORE,43,205)
-(NAME,44,Hans Dolph Lundgren) (OCCUPATION,44,entertainer) (COUNTRY,44,Sweden) (EST_IQ_SCORE,44,160)
-(NAME,45,Hans Christian Andersen) (OCCUPATION,45,writer) (COUNTRY,45,Denmark) (EST_IQ_SCORE,45,145)
-(NAME,46,Hillary Diane Rodham Clinton) (OCCUPATION,46,politician) (COUNTRY,46,USA) (EST_IQ_SCORE,46,140)
-(NAME,47,Hjalmar Horace Greeley Schacht) (OCCUPATION,47,politician) (COUNTRY,47,Germany) (EST_IQ_SCORE,47,143)
-(NAME,48,Honore de Balzac) (OCCUPATION,48,writer) (COUNTRY,48,France) (EST_IQ_SCORE,48,155)
-(NAME,49,Hugo Grotius) (OCCUPATION,49,jurist) (COUNTRY,49,Holland) (EST_IQ_SCORE,49,200)
-(NAME,50,Hypatia of Alexandria) (OCCUPATION,50,philosopher) (COUNTRY,50,Alexandria) (EST_IQ_SCORE,50,170)
-(NAME,51,Immanuel Kant) (OCCUPATION,51,philosopher) (COUNTRY,51,Germany) (EST_IQ_SCORE,51,175)
-(NAME,52,Sir Isaac Newton) (OCCUPATION,52,scientist) (COUNTRY,52,England) (EST_IQ_SCORE,52,190)
-(NAME,53,Jakob Ludwig Felix Mendelssohn Bartholdy) (OCCUPATION,53,composer) (COUNTRY,53,Germany) (EST_IQ_SCORE,53,165)
-(NAME,54,James Cook) (OCCUPATION,54,Explorer) (COUNTRY,54,England) (EST_IQ_SCORE,54,160)
-(NAME,55,James Watt) (OCCUPATION,55,scientist) (COUNTRY,55,Scotland) (EST_IQ_SCORE,55,165)
-(NAME,56,James Howard Woods) (OCCUPATION,56,entertainer) (COUNTRY,56,USA) (EST_IQ_SCORE,56,180)
-(NAME,57,Jayne Mansfield) (OCCUPATION,57,) (COUNTRY,57,USA) (EST_IQ_SCORE,57,149)
-(NAME,58,Jean Marie Auel) (OCCUPATION,58,writer) (COUNTRY,58,Finland) (EST_IQ_SCORE,58,140)
-(NAME,59,Jodie Foster) (OCCUPATION,59,entertainer) (COUNTRY,59,USA) (EST_IQ_SCORE,59,132)
-(NAME,60,Johann Sebastian Bach) (OCCUPATION,60,composer) (COUNTRY,60,Germany) (EST_IQ_SCORE,60,165)
-(NAME,61,Johann Strauss) (OCCUPATION,61,composer) (COUNTRY,61,Germany) (EST_IQ_SCORE,61,170)
-(NAME,62,Johann Wolfgang von Goethe) (OCCUPATION,62,) (COUNTRY,62,Germany) (EST_IQ_SCORE,62,210)
-(NAME,63,Johannes Kepler) (OCCUPATION,63,scientist) (COUNTRY,63,Germany) (EST_IQ_SCORE,63,175)
-(NAME,64,John Adams) (OCCUPATION,64,politician) (COUNTRY,64,USA) (EST_IQ_SCORE,64,137)
-(NAME,65,John F Kennedy) (OCCUPATION,65,politician) (COUNTRY,65,USA) (EST_IQ_SCORE,65,117)
-(NAME,66,John H Sununu) (OCCUPATION,66,politician) (COUNTRY,66,USA) (EST_IQ_SCORE,66,180)
-(NAME,67,John Quincy Adams) (OCCUPATION,67,politician) (COUNTRY,67,USA) (EST_IQ_SCORE,67,153)
-(NAME,68,John Stuart Mill) (OCCUPATION,68,philosopher) (COUNTRY,68,England) (EST_IQ_SCORE,68,200)
-(NAME,69,JohnLocke) (OCCUPATION,69,philosopher) (COUNTRY,69,England) (EST_IQ_SCORE,69,165)
-(NAME,70,Jola Sigmond) (OCCUPATION,70,teacher) (COUNTRY,70,Sweden) (EST_IQ_SCORE,70,161)
-(NAME,71,Jonathan Swift) (OCCUPATION,71,Writer) (COUNTRY,71,England) (EST_IQ_SCORE,71,155)
-(NAME,72,Joseph Haydn) (OCCUPATION,72,composer) (COUNTRY,72,Austria) (EST_IQ_SCORE,72,160)
-(NAME,73,Joseph Louis Lagrange) (OCCUPATION,73,scientist) (COUNTRY,73,France) (EST_IQ_SCORE,73,185)
-(NAME,74,Judith Polgar) (OCCUPATION,74,chessplayer) (COUNTRY,74,Hungary) (EST_IQ_SCORE,74,170)
-(NAME,75,Kim Ung-Yong) (OCCUPATION,75,) (COUNTRY,75,Korea) (EST_IQ_SCORE,75,200)
-(NAME,76,Kimovitch Garry Kasparov) (OCCUPATION,76,chessplayer) (COUNTRY,76,Russia) (EST_IQ_SCORE,76,190)
-(NAME,77,Leonardo da Vinci) (OCCUPATION,77,scientist) (COUNTRY,77,Italy) (EST_IQ_SCORE,77,220)
-(NAME,78,Lord Byron) (OCCUPATION,78,writer) (COUNTRY,78,England) (EST_IQ_SCORE,78,180)
-(NAME,79,Louis Napoleon Bonaparte) (OCCUPATION,79,politician) (COUNTRY,79,France) (EST_IQ_SCORE,79,145)
-(NAME,80,Ludwig van Beethoven) (OCCUPATION,80,composer) (COUNTRY,80,Germany) (EST_IQ_SCORE,80,165)
-(NAME,81,Ludwig Wittgenstein) (OCCUPATION,81,philosopher) (COUNTRY,81,Austria) (EST_IQ_SCORE,81,190)
-(NAME,82,Madame de Stael) (OCCUPATION,82,writer) (COUNTRY,82,France) (EST_IQ_SCORE,82,180)
-(NAME,83,Madonna) (OCCUPATION,83,entertainer) (COUNTRY,83,USA) (EST_IQ_SCORE,83,140)
-(NAME,84,Marilyn vos Savant) (OCCUPATION,84,writer) (COUNTRY,84,USA) (EST_IQ_SCORE,84,186)
-(NAME,85,Martin Luther) (OCCUPATION,85,philosopher) (COUNTRY,85,Germany) (EST_IQ_SCORE,85,170)
-(NAME,86,Miguel de Cervantes) (OCCUPATION,86,writer) (COUNTRY,86,Spain) (EST_IQ_SCORE,86,155)
-(NAME,87,Nicolaus Copernicus) (OCCUPATION,87,scientist) (COUNTRY,87,Poland) (EST_IQ_SCORE,87,160)
-(NAME,88,Nicole Kidman) (OCCUPATION,88,entertainer) (COUNTRY,88,USA) (EST_IQ_SCORE,88,132)
-(NAME,89,Paul Allen) (OCCUPATION,89,businessman) (COUNTRY,89,USA) (EST_IQ_SCORE,89,160)
-(NAME,90,Philip Emeagwali) (OCCUPATION,90,scientist) (COUNTRY,90,Nigeria) (EST_IQ_SCORE,90,190)
-(NAME,91,Phillipp Melanchthon) (OCCUPATION,91,philosopher) (COUNTRY,91,Germany) (EST_IQ_SCORE,91,190)
-(NAME,92,PierreSimon de Laplace) (OCCUPATION,92,scientist) (COUNTRY,92,France) (EST_IQ_SCORE,92,190)
-(NAME,93,Plato) (OCCUPATION,93,philosopher) (COUNTRY,93,Greece) (EST_IQ_SCORE,93,170)
-(NAME,94,Ralph Waldo Emerson) (OCCUPATION,94,writer) (COUNTRY,94,USA) (EST_IQ_SCORE,94,155)
-(NAME,95,Raphael) (OCCUPATION,95,artist) (COUNTRY,95,Italy) (EST_IQ_SCORE,95,170)
-(NAME,96,Rembrandt van Rijn) (OCCUPATION,96,artist) (COUNTRY,96,Holland) (EST_IQ_SCORE,96,155)
-(NAME,97,Ren Descartes) (OCCUPATION,97,philosopher) (COUNTRY,97,France) (EST_IQ_SCORE,97,185)
-(NAME,98,Richard Nixon) (OCCUPATION,98,politician) (COUNTRY,98,USA) (EST_IQ_SCORE,98,143)
-(NAME,99,Richard Wagner) (OCCUPATION,99,composer) (COUNTRY,99,Germany) (EST_IQ_SCORE,99,170)
-(NAME,100,Robert Byrne) (OCCUPATION,100,chessplayer) (COUNTRY,100,Irland) (EST_IQ_SCORE,100,170)
-(NAME,101,Rousseau) (OCCUPATION,101,writer) (COUNTRY,101,France) (EST_IQ_SCORE,101,150)
-(NAME,102,Sarpi) (OCCUPATION,102,philosopher) (COUNTRY,102,Italy) (EST_IQ_SCORE,102,195)
-(NAME,103,Shakira) (OCCUPATION,103,entertainer) (COUNTRY,103,Colombia) (EST_IQ_SCORE,103,140)
-(NAME,104,Sharon Stone) (OCCUPATION,104,entertainer) (COUNTRY,104,USA) (EST_IQ_SCORE,104,154)
-(NAME,105,Sofia Kovalevskaya) (OCCUPATION,105,scientist) (COUNTRY,105,Russia) (EST_IQ_SCORE,105,170)
-(NAME,106,Stephen W Hawking) (OCCUPATION,106,scientist) (COUNTRY,106,England) (EST_IQ_SCORE,106,160)
-(NAME,107,Thomas Chatterton) (OCCUPATION,107,writer) (COUNTRY,107,England) (EST_IQ_SCORE,107,180)
-(NAME,108,Thomas Jefferson) (OCCUPATION,108,politician) (COUNTRY,108,USA) (EST_IQ_SCORE,108,138)
-(NAME,109,Thomas Wolsey) (OCCUPATION,109,politician) (COUNTRY,109,England) (EST_IQ_SCORE,109,200)
-(NAME,110,Truman Cloak) (OCCUPATION,110,) (COUNTRY,110,) (EST_IQ_SCORE,110,165)
-(NAME,111,Ulysses S Grant) (OCCUPATION,111,politician) (COUNTRY,111,USA) (EST_IQ_SCORE,111,110)
-(NAME,112,Voltaire) (OCCUPATION,112,philosopher) (COUNTRY,112,France) (EST_IQ_SCORE,112,190)
-(NAME,113,William James Sidis) (OCCUPATION,113,) (COUNTRY,113,USA) (EST_IQ_SCORE,113,200)
-(NAME,114,William Pitt) (OCCUPATION,114,politician) (COUNTRY,114,England) (EST_IQ_SCORE,114,190)
-(NAME,115,Wolfgang Amadeus Mozart) (OCCUPATION,115,composer) (COUNTRY,115,Austria) (EST_IQ_SCORE,115,165)
+[(0,"NAME"),(0,"OCCUPATION"),(0,"COUNTRY"),(0,"EST_IQ_SCORE")]
+[(1,"Abraham Lincoln"),(1,"politician"),(1,"USA"),(1,"128")]
+[(2,"Adolf Hitler"),(2,"politician"),(2,"Germany"),(2,"141")]
+[(3,"Al Gore"),(3,"politician"),(3,"USA"),(3,"134")]
+[(4,"Albert Einstein"),(4,"scientist"),(4,"USA"),(4,"160")]
+[(5,"Albrecht von Haller"),(5,"scientist"),(5,"Switzerland"),(5,"190")]
+[(6,"Alexander Pope"),(6,"writer"),(6,"England"),(6,"180")]
+[(7,"Sir Andrew J Wiles"),(7,"scientist"),(7,"England"),(7,"170")]
+[(8,"Andrew Jackson"),(8,"politician"),(8,"USA"),(8,"123")]
+[(9,"Andy Warhol"),(9,"artist"),(9,"USA"),(9,"86")]
+[(10,"Anthonis van Dyck"),(10,"artist"),(10,"Dutch"),(10,"155")]
+[(11,"Antoine Arnauld"),(11,"philosopher"),(11,"France"),(11,"190")]
+[(12,"Arne Beurling"),(12,"scientist"),(12,"Sweden"),(12,"180")]
+[(13,"Arnold Schwarzenegger"),(13,"politician"),(13,"Austrian"),(13,"135")]
+[(14,"Baruch Spinoza"),(14,"philosopher"),(14,"Holland"),(14,"175")]
+[(15,"Benjamin Franklin"),(15,"politician"),(15,"USA"),(15,"160")]
+[(16,"Benjamin Netanyahu"),(16,"politician"),(16,"Israel"),(16,"180")]
+[(17,"Bill Gates"),(17,"businessman"),(17,"USA"),(17,"160")]
+[(18,"William Jefferson Clinton"),(18,"politician"),(18,"USA"),(18,"137")]
+[(19,"Blaise Pascal"),(19,"scientist"),(19,"France"),(19,"195")]
+[(20,"Bobby Fischer"),(20,"chessplayer"),(20,"USA"),(20,"187")]
+[(21,"Buonarroti Michelangelo"),(21,"artist"),(21,"Italy"),(21,"180")]
+[(22,"Carl von Linn"),(22,"scientist"),(22,"Sweden"),(22,"165")]
+[(23,"Charles Darwin"),(23,"scientist"),(23,"England"),(23,"165")]
+[(24,"Charles Dickens"),(24,"writer"),(24,"England"),(24,"180")]
+[(25,"Christopher Michael Langan"),(25,"bouncer"),(25,"USA"),(25,"195")]
+[(26,"Sir Clive Sinclair"),(26,"scientist"),(26,"England"),(26,"159")]
+[(27,"David Hume"),(27,"philosopher"),(27,"Scotland"),(27,"180")]
+[(28,"Dr David Livingstone"),(28,"explorer"),(28,"Scotland"),(28,"170")]
+[(29,"Donald Byrne"),(29,"chessplayer"),(29,"Irland"),(29,"170")]
+[(30,"Emanuel Swedenborg"),(30,"philosopher"),(30,"Sweden"),(30,"205")]
+[(31,"Sir Francis Galton"),(31,"scientist"),(31,"British"),(31,"200")]
+[(32,"Friedrich Wilhelm Joseph von Schelling"),(32,"philosopher"),(32,"Germany"),(32,"190")]
+[(33,"Galileo Galilei"),(33,"scientist"),(33,"Italy"),(33,"185")]
+[(34,"Geena Elizabeth Davis"),(34,"entertainer"),(34,"USA"),(34,"140")]
+[(35,"Georg Friedrich Handel"),(35,"composer"),(35,"Germany"),(35,"170")]
+[(36,"George Wilhelm Friedrich Hegel"),(36,"philosopher"),(36,"Germany"),(36,"165")]
+[(37,"George Berkeley"),(37,"philosopher"),(37,"Ireland"),(37,"190")]
+[(38,"George H Choueiri"),(38,"businessman"),(38,"Lebanon"),(38,"195")]
+[(39,"Mary Ann Evans"),(39,"writer"),(39,"England"),(39,"160")]
+[(40,"George Sand "),(40,"writer"),(40,"France"),(40,"150")]
+[(41,"George Walker Bush"),(41,"politician"),(41,"USA"),(41,"125")]
+[(42,"George Washington"),(42,"politician"),(42,"USA"),(42,"118")]
+[(43,"Gottfried Wilhelm von Leibniz"),(43,"philosopher"),(43,"Germany"),(43,"205")]
+[(44,"Hans Dolph Lundgren"),(44,"entertainer"),(44,"Sweden"),(44,"160")]
+[(45,"Hans Christian Andersen"),(45,"writer"),(45,"Denmark"),(45,"145")]
+[(46,"Hillary Diane Rodham Clinton"),(46,"politician"),(46,"USA"),(46,"140")]
+[(47,"Hjalmar Horace Greeley Schacht"),(47,"politician"),(47,"Germany"),(47,"143")]
+[(48,"Honore de Balzac"),(48,"writer"),(48,"France"),(48,"155")]
+[(49,"Hugo Grotius"),(49,"jurist"),(49,"Holland"),(49,"200")]
+[(50,"Hypatia of Alexandria"),(50,"philosopher"),(50,"Alexandria"),(50,"170")]
+[(51,"Immanuel Kant"),(51,"philosopher"),(51,"Germany"),(51,"175")]
+[(52,"Sir Isaac Newton"),(52,"scientist"),(52,"England"),(52,"190")]
+[(53,"Jakob Ludwig Felix Mendelssohn Bartholdy"),(53,"composer"),(53,"Germany"),(53,"165")]
+[(54,"James Cook"),(54,"Explorer"),(54,"England"),(54,"160")]
+[(55,"James Watt"),(55,"scientist"),(55,"Scotland"),(55,"165")]
+[(56,"James Howard Woods"),(56,"entertainer"),(56,"USA"),(56,"180")]
+[(57,"Jayne Mansfield"),(57,""),(57,"USA"),(57,"149")]
+[(58,"Jean Marie Auel"),(58,"writer"),(58,"Finland"),(58,"140")]
+[(59,"Jodie Foster"),(59,"entertainer"),(59,"USA"),(59,"132")]
+[(60,"Johann Sebastian Bach"),(60,"composer"),(60,"Germany"),(60,"165")]
+[(61,"Johann Strauss"),(61,"composer"),(61,"Germany"),(61,"170")]
+[(62,"Johann Wolfgang von Goethe"),(62,""),(62,"Germany"),(62,"210")]
+[(63,"Johannes Kepler"),(63,"scientist"),(63,"Germany"),(63,"175")]
+[(64,"John Adams"),(64,"politician"),(64,"USA"),(64,"137")]
+[(65,"John F Kennedy"),(65,"politician"),(65,"USA"),(65,"117")]
+[(66,"John H Sununu"),(66,"politician"),(66,"USA"),(66,"180")]
+[(67,"John Quincy Adams"),(67,"politician"),(67,"USA"),(67,"153")]
+[(68,"John Stuart Mill"),(68,"philosopher"),(68,"England"),(68,"200")]
+[(69,"JohnLocke"),(69,"philosopher"),(69,"England"),(69,"165")]
+[(70,"Jola Sigmond"),(70,"teacher"),(70,"Sweden"),(70,"161")]
+[(71,"Jonathan Swift"),(71,"Writer"),(71,"England"),(71,"155")]
+[(72,"Joseph Haydn"),(72,"composer"),(72,"Austria"),(72,"160")]
+[(73,"Joseph Louis Lagrange"),(73,"scientist"),(73,"France"),(73,"185")]
+[(74,"Judith Polgar"),(74,"chessplayer"),(74,"Hungary"),(74,"170")]
+[(75,"Kim Ung-Yong"),(75,""),(75,"Korea"),(75,"200")]
+[(76,"Kimovitch Garry Kasparov"),(76,"chessplayer"),(76,"Russia"),(76,"190")]
+[(77,"Leonardo da Vinci"),(77,"scientist"),(77,"Italy"),(77,"220")]
+[(78,"Lord Byron"),(78,"writer"),(78,"England"),(78,"180")]
+[(79,"Louis Napoleon Bonaparte"),(79,"politician"),(79,"France"),(79,"145")]
+[(80,"Ludwig van Beethoven"),(80,"composer"),(80,"Germany"),(80,"165")]
+[(81,"Ludwig Wittgenstein"),(81,"philosopher"),(81,"Austria"),(81,"190")]
+[(82,"Madame de Stael"),(82,"writer"),(82,"France"),(82,"180")]
+[(83,"Madonna"),(83,"entertainer"),(83,"USA"),(83,"140")]
+[(84,"Marilyn vos Savant"),(84,"writer"),(84,"USA"),(84,"186")]
+[(85,"Martin Luther"),(85,"philosopher"),(85,"Germany"),(85,"170")]
+[(86,"Miguel de Cervantes"),(86,"writer"),(86,"Spain"),(86,"155")]
+[(87,"Nicolaus Copernicus"),(87,"scientist"),(87,"Poland"),(87,"160")]
+[(88,"Nicole Kidman"),(88,"entertainer"),(88,"USA"),(88,"132")]
+[(89,"Paul Allen"),(89,"businessman"),(89,"USA"),(89,"160")]
+[(90,"Philip Emeagwali"),(90,"scientist"),(90,"Nigeria"),(90,"190")]
+[(91,"Phillipp Melanchthon"),(91,"philosopher"),(91,"Germany"),(91,"190")]
+[(92,"PierreSimon de Laplace"),(92,"scientist"),(92,"France"),(92,"190")]
+[(93,"Plato"),(93,"philosopher"),(93,"Greece"),(93,"170")]
+[(94,"Ralph Waldo Emerson"),(94,"writer"),(94,"USA"),(94,"155")]
+[(95,"Raphael"),(95,"artist"),(95,"Italy"),(95,"170")]
+[(96,"Rembrandt van Rijn"),(96,"artist"),(96,"Holland"),(96,"155")]
+[(97,"Ren Descartes"),(97,"philosopher"),(97,"France"),(97,"185")]
+[(98,"Richard Nixon"),(98,"politician"),(98,"USA"),(98,"143")]
+[(99,"Richard Wagner"),(99,"composer"),(99,"Germany"),(99,"170")]
+[(100,"Robert Byrne"),(100,"chessplayer"),(100,"Irland"),(100,"170")]
+[(101,"Rousseau"),(101,"writer"),(101,"France"),(101,"150")]
+[(102,"Sarpi"),(102,"philosopher"),(102,"Italy"),(102,"195")]
+[(103,"Shakira"),(103,"entertainer"),(103,"Colombia"),(103,"140")]
+[(104,"Sharon Stone"),(104,"entertainer"),(104,"USA"),(104,"154")]
+[(105,"Sofia Kovalevskaya"),(105,"scientist"),(105,"Russia"),(105,"170")]
+[(106,"Stephen W Hawking"),(106,"scientist"),(106,"England"),(106,"160")]
+[(107,"Thomas Chatterton"),(107,"writer"),(107,"England"),(107,"180")]
+[(108,"Thomas Jefferson"),(108,"politician"),(108,"USA"),(108,"138")]
+[(109,"Thomas Wolsey"),(109,"politician"),(109,"England"),(109,"200")]
+[(110,"Truman Cloak"),(110,""),(110,""),(110,"165")]
+[(111,"Ulysses S Grant"),(111,"politician"),(111,"USA"),(111,"110")]
+[(112,"Voltaire"),(112,"philosopher"),(112,"France"),(112,"190")]
+[(113,"William James Sidis"),(113,""),(113,"USA"),(113,"200")]
+[(114,"William Pitt"),(114,"politician"),(114,"England"),(114,"190")]
+[(115,"Wolfgang Amadeus Mozart"),(115,"composer"),(115,"Austria"),(115,"165")]
