@@ -17,8 +17,8 @@ spl x = splitOn "," x
 cleanData :: String -> String
 cleanData content = replace "\r" "" content
 
-processData :: String -> String
-processData content = unlines([ show (prepLine line) | line <- (zip[0..] (lines(content)) )])
+processData :: String -> [[(Int,String)]]
+processData content = (transpose [(prepLine line) | line <- (zip[0..] (lines(content)) )])
 
 prepLine :: (Int,String) -> [(Int,String)]
 prepLine line = processLine (snd line) (fst line)
@@ -33,4 +33,4 @@ main :: IO ()
 main = do
     file:_ <- getArgs
     content <- readData file
-    outputData $ processData (cleanData content)
+    outputData $ show (processData (cleanData content))
