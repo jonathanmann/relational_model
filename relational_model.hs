@@ -20,7 +20,11 @@ getSet :: String -> String
 getSet raw_data = show [Set.fromList (data_list) | data_list <- (processData raw_data)]
 
 processData :: String -> [[(Int,String)]]
-processData content = (transpose [(prepLine line) | line <- (zip[0..] (lines(cleanData content)) )])
+processData content =  filterData (transpose [(prepLine line) | line <- (zip[0..] (lines(cleanData content)) )])
+
+filterData :: [[(Int,String)]] -> [[(Int,String)]]
+filterData tuple_lists = [ filter (\(x,y) ->  y /= "") tuple_list  | tuple_list <- tuple_lists] 
+
 
 cleanData :: String -> String
 cleanData content = replace "\r" "" content
@@ -33,6 +37,7 @@ processLine line r_ord = [ (getTuple col r_ord) | col <- (spl line)]
 
 getTuple :: String -> Int -> (Int,String) 
 getTuple col r_ord = (r_ord,col)
+
 
 main :: IO ()
 main = do
