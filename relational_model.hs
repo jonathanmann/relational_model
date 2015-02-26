@@ -4,6 +4,7 @@ import Data.String.Utils
 import Data.List
 import Data.Set (Set)
 import qualified Data.Set as Set
+import Data.HashSet
 
 readData :: FilePath -> IO (String)
 readData file = do
@@ -17,14 +18,13 @@ spl :: String -> [String]
 spl x = splitOn "," x
 
 getSet :: String -> String
-getSet raw_data = show [Set.fromList (data_list) | data_list <- (processData raw_data)]
+getSet raw_data = show [Data.HashSet.fromList (data_list) | data_list <- (processData raw_data)]
 
 processData :: String -> [[(Int,String)]]
 processData content =  filterData (transpose [(prepLine line) | line <- (zip[0..] (lines(cleanData content)) )])
 
 filterData :: [[(Int,String)]] -> [[(Int,String)]]
-filterData tuple_lists = [ filter (\(x,y) ->  y /= "") tuple_list  | tuple_list <- tuple_lists] 
-
+filterData tuple_lists = [ Data.List.filter (\(x,y) ->  y /= "") tuple_list  | tuple_list <- tuple_lists] 
 
 cleanData :: String -> String
 cleanData content = replace "\r" "" content
@@ -43,4 +43,4 @@ main :: IO ()
 main = do
     file:_ <- getArgs
     raw_data <- readData file
-    outputData $ show (processData raw_data)
+    outputData $ (getSet raw_data) 
